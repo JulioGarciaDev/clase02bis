@@ -1,0 +1,17 @@
+{
+  "name": "clase02bis",
+  "version": "1.0.0",
+  "description": "api restful con express",
+  "main": "server.js",
+  "scripts": {
+    "dev": "echo 'corro dev'",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "camada2520",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
